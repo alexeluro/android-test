@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Android Test</string>
     <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="google_maps_API_key">AIzaSyB67-LMmEybSzeLogot98oPvBExkFzEkgI</string>
+    <string name="title_activity_second_maps">Map</string>
 </resources>
